@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Sat, 19 Jun 2021 15:58:11 +0300
+Source: lxqt-build-tools
+Binary: lxqt-build-tools
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.9.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: The Senate <severusseptimius7@gmail.com>
+Changed-By: The Senate <severusseptimius7@gmail.com>
+Description:
+ lxqt-build-tools - This repository is providing several tools needed to build LXQt i
+Changes:
+ lxqt-build-tools (0.9.0-1) unstable; urgency=medium
+ .
+   * Initial release
+   * This is my first Debian package.
+Checksums-Sha1:
+ f9e8b3ba0ca902582b244d948e3b9dbfe8d25fcc 1005 lxqt-build-tools_0.9.0-1.dsc
+ 5538fc9c1e3548687a46a9058889625dbe54a9b7 29081 lxqt-build-tools_0.9.0.orig.tar.gz
+ 8e97b0a764711ef6e5523348c5af2b4df67d2c7b 8616 lxqt-build-tools_0.9.0-1.debian.tar.xz
+ 4bb5db876c044f46ac4aedcea8e3990de64632c2 22208 lxqt-build-tools_0.9.0-1_all.deb
+ f813aa70f4479b4e8a4a713395360dd05f89b2b8 14078 lxqt-build-tools_0.9.0-1_amd64.buildinfo
+Checksums-Sha256:
+ f5f0a9bfd869d5a22cfb8ee3763708dd0256a740648ab946b3427b2e93090e0d 1005 lxqt-build-tools_0.9.0-1.dsc
+ 38842bc611b16fddc345e98f5a7b6ae23f4b69522baec8e0fb2e79e986299048 29081 lxqt-build-tools_0.9.0.orig.tar.gz
+ 415808dd15d3a8f89f2b793d16e7165328e2f23846b82171137cd1e7aad627a4 8616 lxqt-build-tools_0.9.0-1.debian.tar.xz
+ eb8225f959ff00e372c16fcb60dd7ae877512a6abe2a41e9363b6ddb781bc86b 22208 lxqt-build-tools_0.9.0-1_all.deb
+ 011b92d5858012e103713aad01219efa247cde460539b05a4beb8df945a86631 14078 lxqt-build-tools_0.9.0-1_amd64.buildinfo
+Files:
+ fc7c0cf76524ea9df460f3880bc3a3b8 1005 unknown optional lxqt-build-tools_0.9.0-1.dsc
+ 9ff26c10d812ae4af88c747dcca24121 29081 unknown optional lxqt-build-tools_0.9.0.orig.tar.gz
+ 7e0ba36f8570da1f3b1835f6dac6db88 8616 unknown optional lxqt-build-tools_0.9.0-1.debian.tar.xz
+ 66889131688a5d2193c34c5d47e70a07 22208 unknown optional lxqt-build-tools_0.9.0-1_all.deb
+ 882d2b9fdfe41c64d5160a1feda91145 14078 unknown optional lxqt-build-tools_0.9.0-1_amd64.buildinfo
